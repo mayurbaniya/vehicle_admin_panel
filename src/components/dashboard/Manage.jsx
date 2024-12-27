@@ -1,8 +1,12 @@
 import React from 'react'
+import ManageBrand from './management/ManageBrands'
 
 const Manage = () => {
   return (
-    <div>Manage</div>
+    <div>
+   
+    <ManageBrand/>
+    </div>
   )
 }
 
